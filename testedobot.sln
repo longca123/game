@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testedobot", "testedobot\testedobot.csproj", "{3B0FF42E-CD07-4ABA-B574-6330157FD864}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5F6FE6F3-166E-47BB-A285-FC1D0559F241}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B0FF42E-CD07-4ABA-B574-6330157FD864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0FF42E-CD07-4ABA-B574-6330157FD864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0FF42E-CD07-4ABA-B574-6330157FD864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0FF42E-CD07-4ABA-B574-6330157FD864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA2386BD-9369-479F-9AF1-94CFCF299946}
+	EndGlobalSection
+EndGlobal
